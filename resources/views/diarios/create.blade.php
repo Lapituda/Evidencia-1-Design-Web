@@ -17,7 +17,7 @@
                         <form method="POST" action="{{ route('diarios.store') }}"  role="form" enctype="multipart/form-data">
                             @csrf
 
-                            @include('diario.form')
+                            @include('diarios.form')
 
                         </form>
                     </div>
