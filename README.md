@@ -1,10 +1,8 @@
 # EVIDENCIA 2
-Descripción:
-
+## Descripción:
 El estudiante desarrollará una aplicación web utilizando las mejores prácticas de programación.
 
-Instrucciones:
-
+## Instrucciones:
 Darás continuidad a tu proyecto definido en la evidencia 1 y realizarás la codificación de la parte lógica del proyecto en el Framework de tu elección:
 
 Crearás los Modelos correspondientes.
@@ -14,7 +12,7 @@ Crea los controladores necesarios con las operaciones o métodos que requiere tu
 Llene la base de datos con datos para realizar pruebas con sembradoras o fábricas según lo considere apropiado.
 Creará las vistas básicas (no se requiere diseño)
 
-Creado por:
+## Creado por:
 
 Samantha Yohana Ramírez Moreno 3007631
 Jaime Salazar Montemayor 3009120
